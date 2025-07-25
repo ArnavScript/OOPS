@@ -1,7 +1,7 @@
 # 🔷 Object-Oriented Programming (OOPs)
 
 Welcome to my OOPs (Object-Oriented Programming System) learning repository!  
-This repository contains my notes, code examples, and mini-projects based on **core OOPs concepts** which I learned from **Rohit Negi Bhaiya** — a mentor who made OOPs feel like second nature with his conceptual clarity and real-life analogies.
+This repository contains my notes and code examples based on **core OOPs concepts** which I learned from **Rohit Negi Bhaiya** — a mentor who made OOPs feel like second nature with his conceptual clarity and real-life analogies.
 
 
 ## 📘 What is OOP?
